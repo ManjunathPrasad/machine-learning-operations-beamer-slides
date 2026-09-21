@@ -1,0 +1,31 @@
+# ---- LaTeX build artifacts ----
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.xdv
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.lof
+*.lot
+
+# ---- Compiled PDFs (keep main.pdf for easy viewing) ----
+*.pdf
+!main.pdf
+
+# ---- Editor / OS files ----
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
