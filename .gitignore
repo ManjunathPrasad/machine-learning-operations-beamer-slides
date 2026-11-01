@@ -19,8 +19,8 @@
 *.lot
 
 # ---- Compiled PDFs (keep main.pdf for easy viewing) ----
-*.pdf
-!main.pdf
+# *.pdf
+# !main.pdf
 
 # ---- Editor / OS files ----
 .vscode/
